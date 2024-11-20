@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Oussama Aouina</h1>
-<h3 align="center">A Fullstack developer and Software Engineering Student</h3>
+<h3 align="center">Software Engineering Student</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oussama-aouina&label=Profile%20views&color=0e75b6&style=flat" alt="oussama-aouina" /> </p>
 
